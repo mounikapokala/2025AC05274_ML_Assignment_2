@@ -105,4 +105,4 @@ project-folder/
 
 ## Live Streamlit App
 
-> *[Add your Streamlit Cloud link here after deployment]*
+> *https://2025ac05274-ml-assignment2.streamlit.app*
